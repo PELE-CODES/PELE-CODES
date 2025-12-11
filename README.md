@@ -1,1 +1,33 @@
-![Metrics](https://metrics.lecoq.io/PELE-CODES?template=classic&repositories.batch=1000&base.repositories=0&isocalendar=1&languages=1&fortune=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=HTML%2CCSS&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&fortune=false&config.timezone=America%2FSao_Paulo&config.order=base.repositoris&config.octicon=true&config.padding=30%2C0%20%20%2B%2025%25)
+## Olá! 👋
+
+<!-- 
+O código abaixo é um código hexadecimal que representa um link para um GIF de "blob wave". 
+Se você quiser manter o efeito visual do README original, adicione esta linha exatamente como está.
+-->
+
+Eu sou o **Hebert**, um desenvolvedor **back-end** que mora no Brasil, no Rio de Janeiro.
+
+Eu **construo** soluções robustas e escaláveis para a web.
+
+Se uma ideia aparece na minha cabeça, provavelmente eu vou tirar ela do papel.
+
+## 🛠️ Minha Stack Principal
+
+Minhas principais tecnologias e ferramentas de trabalho são:
+
+*   **Linguagens/Runtimes:** `JavaScript`, `PHP`, `Node.js`, `TypeScript`
+*   **Frameworks/Bibliotecas:** `React` (para integrações e projetos front-end pontuais)
+*   **Ferramentas:** `VS Code`, `Git`, `GitHub`
+
+## ✨ Projetos em Destaque
+
+Tenho alguns projetos fixados no meu perfil, mas meu favorito é o [Sistema-test-1](https://github.com/PELE-CODES/Sistema-test-1).
+
+## 🤝 Conecte-se Comigo
+
+Estou sempre aberto a novas conexões e oportunidades.
+
+*   **LinkedIn:** (www.linkedin.com/in/hebert-fonseca)
+*   **Email:** (l9silva34@gmail.com)
+
+---
